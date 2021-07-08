@@ -6,6 +6,8 @@ AIM:
 DATASET:
 
     The data set can be downloaded here: https://www.kaggle.com/yuvrajdagur/ipl-dataset-season-2008-to-2017
+
+
 DATASET FEATURES:
 
 •mid: Unique match id.
@@ -66,6 +68,8 @@ DATASET FEATURES:
 
 • total: Total runs scored by batting team at the end of first innings
     
+
+
 MODELS:
 
   •  Linear Regression
