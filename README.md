@@ -1,12 +1,12 @@
 # IPL_SCORE_PREDICTION
 
-##AIM:
+## AIM:
     To predict the IPL score using Machine Learning.		
-##DATASET:
+## DATASET:
     The data set can be downloaded here: https://www.kaggle.com/yuvrajdagur/ipl-dataset-season-2008-to-2017
 
 
-##DATASET FEATURES:
+## DATASET FEATURES:
 * mid: Unique match id.
 
 * date: Date on which the match was played.
@@ -65,7 +65,7 @@
 
 * total: Total runs scored by batting team at the end of first innings
     
-##MODELS:
+## MODELS:
 
   *  Linear Regression
   
@@ -81,7 +81,7 @@
   
   *	MLP Regressor(Neural Network)
   
-##THE BEST MODEL:
+## THE BEST MODEL:
    * The model with the best score was Random Forest.
    * If your aim is to have a faster fitting of the model then use Decision trees as it is much faster with a pretty decent score.
    * Neural network(MLP regressor) will give better results if had much more data but fitting the neural network is time consuming.
