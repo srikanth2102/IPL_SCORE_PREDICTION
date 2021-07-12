@@ -4,7 +4,7 @@
    To predict the IPL score using Machine Learning.		
 
 ## DATASET:
-   Wse this link to access the [dataset](https://www.kaggle.com/yuvrajdagur/ipl-dataset-season-2008-to-2017).
+   Use this link to access the [dataset](https://www.kaggle.com/yuvrajdagur/ipl-dataset-season-2008-to-2017).
 ## DATASET FEATURES:
 
 * mid: Unique match id.
