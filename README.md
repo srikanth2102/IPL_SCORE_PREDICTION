@@ -25,14 +25,18 @@
 
 ## MODELS:
 
-  *  Linear Regression  
-  *	Lasso Regression  
-  *	Decision Tree
-  *	Random Forest
+  * Linear Regression  
+  * Lasso Regression  
+  * Decision Tree
+  * Random Forest
   * Boosting using decision trees
-  *	SVM Regression
-  *	MLP Regressor(Neural Network)
-  
+  * SVM Regression
+  * MLP Regressor(Neural Network)
+
+## MODEL PERFORMANCE:
+* This barplot will help us compare the performance of every models.
+* ![models](https://i.ibb.co/wQsfPHN/score.jpg)
+
 ## THE BEST MODEL:
    * The model with the best score was Random Forest.
    * If your aim is to have a faster fitting of the model then use Decision trees as it is much faster with a pretty decent score.
