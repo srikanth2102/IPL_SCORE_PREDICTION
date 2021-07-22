@@ -40,4 +40,3 @@
 ## THE BEST MODEL:
    * The model with the best score was Random Forest.
    * If your aim is to have a faster fitting of the model then use Decision trees as it is much faster with a pretty decent score.
-   * Neural network(MLP regressor) will give better results if had much more data but fitting the neural network is time consuming.
