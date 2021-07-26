@@ -1,10 +1,11 @@
 # IPL_SCORE_PREDICTION
 
-## AIM:
-   To predict the IPL score using Machine Learning.		
+## OVERVIEW
+   In this project we make use of machine learning models to predict IPL score.		
 
 ## DATASET:
    Use this link to access the [dataset](https://www.kaggle.com/yuvrajdagur/ipl-dataset-season-2008-to-2017).
+   
 ## DATASET FEATURES:
 
 * mid: Unique match id.
